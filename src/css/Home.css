@@ -1,0 +1,110 @@
+.team-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.home-header{
+    color: white;
+    font-family: 'Bagel Fat One', sans-serif; /* sans-serif is a generic fallback */
+    font-size: 2rem;
+    margin-bottom: 20px;
+    margin-top: 80px;
+}
+
+.home-description{
+    color: white;
+    font-family: 'Tahoma', sans-serif;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    margin-top: 80px;
+}
+
+.home-container{
+    background-color: #7f03fc;
+    font-family: 'Tahoma', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
+.name-input {
+    width: 200px; /* Adjust width as necessary */
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+}
+
+.add-name-button {
+    /* width: 200px; Matches the width of .name-input */
+    /* padding: 10px 0; */
+    border-radius: 5px;
+    background-color: white;
+    color: #7f03fc;
+    font-weight: bold;
+    width: 50px;
+    margin-left: 10px;
+    border: none;
+    /* margin-top: 10px; */
+    /* margin-bottom: 10px; */
+}
+
+.names-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    color: white;
+    font-weight: bold;
+}
+
+.player {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px; /* Matches the width of .name-input */
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.remove-player-button {
+    border-radius: 5px;
+    background-color: white;
+    color: #7f03fc;
+    font-weight: bold;
+    border: none;
+}
+
+.start-btn {
+    width: 20%;
+    padding: 10px 0;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    color: #7f03fc;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s; /* Added transform to the transition for smooth movement */
+}
+
+.start-btn:active {
+    background-color: #43fc7b; /* Darkened color when the button is pressed */
+    transform: translateY(-3px); /* Move button down (simulate raise) when clicked */
+    color: white;
+}
+
+.player-list{
+    display: flex;
+    flex-direction: column;
+}
+
+.player-input{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
