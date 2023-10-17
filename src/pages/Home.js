@@ -10,7 +10,7 @@ function Home() {
     
     useEffect(() => {
         // Load questions only once when the Home component mounts
-        fetch('/questions_v1.json')
+        fetch(process.env.PUBLIC_URL + '/questions_v1.json')
             .then(response => response.json())
             .then(data => setQuestions(data));
     }, []);

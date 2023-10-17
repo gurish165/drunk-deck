@@ -30,6 +30,34 @@
     align-items: center;
     text-align: center;
     height: 100vh;
+
+    background: linear-gradient(
+		-45deg,
+		#ffffff,
+		#ffe4e9,
+		#fcc8e2,
+		#f6baed,
+		#efb0ff,
+		#d3a2ff,
+		#8eb8ff,
+		#91efff,
+		#d5f9ff
+	);
+	background-size: 600% 600%;
+	animation: gradient 9s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 
 .name-input {
@@ -41,8 +69,6 @@
 }
 
 .add-name-button {
-    /* width: 200px; Matches the width of .name-input */
-    /* padding: 10px 0; */
     border-radius: 5px;
     background-color: white;
     color: #7f03fc;
@@ -50,8 +76,7 @@
     width: 50px;
     margin-left: 10px;
     border: none;
-    /* margin-top: 10px; */
-    /* margin-bottom: 10px; */
+    cursor: pointer;
 }
 
 .names-container {
@@ -78,6 +103,7 @@
     color: #7f03fc;
     font-weight: bold;
     border: none;
+    cursor: pointer;
 }
 
 .start-btn {

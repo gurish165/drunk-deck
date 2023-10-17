@@ -30,9 +30,10 @@ function Login() {
                 type="password" 
                 value={input} 
                 onChange={e => setInput(e.target.value)} 
+                placeholder='Password'
                 className={wrongPassword ? 'shake-input' : ''} // Add class for shake effect
             />
-            <button class="login-enter-btn" onClick={handleLogin}>Enter</button>
+            <button class="login-enter-btn" onClick={handleLogin}>Login</button>
         </div>
     );
 }
