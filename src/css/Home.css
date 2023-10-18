@@ -138,29 +138,29 @@
 .banner-outer-section{
     background-color: rgba(211, 211, 211, 0.6);
     color: white;
+    width: 100%;
+    max-width: 100%;
     overflow-x: hidden;
 }
 .banner-wrapper-div{
     display:flex;
     flex-wrap: nowrap;
     white-space: nowrap;
-    min-width: 30%;
 }
 @keyframes slide-left {
     from {
-    -webkit-transform: translateX(70%);
-            transform: translateX(70%);
+    -webkit-transform: translateX(30%);
+            transform: translateX(30%);
     }
     to {
-    -webkit-transform: translateX(-70%);
-            transform: translateX(-70%);
+    -webkit-transform: translateX(-100%);
+            transform: translateX(-100%);
     }
 }
 .banner-message{
     padding: 2px;
     display : flex;
     flex-shrink: 0;
-    /* height: 50px; */
     align-items: center;
     animation: slide-left 20s linear infinite;
 }
