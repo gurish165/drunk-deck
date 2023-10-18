@@ -1,6 +1,7 @@
 import { useContext, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import PlayerList from '../components/PlayerList';
+import Banner from '../components/Banner';
 import PlayersContext from '../contexts/PlayersContext';
 import '../css/Home.css';
 
@@ -62,9 +63,9 @@ function Home() {
             history('/play'); 
         }
     };
-    
     return (
         <div className="home-container">
+            <Banner bottom={false}/>
             <div className='home-header'>
                 Pookie Play !
             </div>
@@ -75,6 +76,7 @@ function Home() {
                 <PlayerList players={players} addPlayer={addPlayer} removePlayer={removePlayer} />
                 <button className="start-btn" onClick={startGame}>Start</button>
             </div>
+            <Banner bottom={true}/>
         </div>
     );
     
