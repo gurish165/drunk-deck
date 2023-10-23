@@ -10,7 +10,7 @@
 .navigation {
     display: flex;
     flex-direction: row;
-    margin-bottom: 150px; /* Add some margin for spacing from the bottom */
+    margin-bottom: 250px; /* Add some margin for spacing from the bottom */
     width: 100%;
     justify-content: center;
 }
