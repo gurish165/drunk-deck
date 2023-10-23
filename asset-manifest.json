@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pookie-play/static/css/main.26d386ae.css",
-    "main.js": "/pookie-play/static/js/main.af6bd4f8.js",
+    "main.js": "/pookie-play/static/js/main.ac1f7ffc.js",
     "index.html": "/pookie-play/index.html",
     "main.26d386ae.css.map": "/pookie-play/static/css/main.26d386ae.css.map",
-    "main.af6bd4f8.js.map": "/pookie-play/static/js/main.af6bd4f8.js.map"
+    "main.ac1f7ffc.js.map": "/pookie-play/static/js/main.ac1f7ffc.js.map"
   },
   "entrypoints": [
     "static/css/main.26d386ae.css",
-    "static/js/main.af6bd4f8.js"
+    "static/js/main.ac1f7ffc.js"
   ]
 }
