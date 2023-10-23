@@ -41,7 +41,7 @@ function Home() {
     };
 
     const addPlayer = (player) => {
-        if (players.length < 10) {
+        if (players.length < 20) {
             setPlayers(prevPlayers => {
                 const updatedPlayers = [...prevPlayers, player];
                 return updatedPlayers;
