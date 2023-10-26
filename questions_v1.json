@@ -579,9 +579,6 @@
         "[*], good little doggie! When given a command generally used for a dog, you have to do it or take a penalty for 5 rounds. You can only be given a command every 30 seconds"
     ],
     [
-        "Take a penalty if you've been in a relationship after the age of 18 and you didn't have sex"
-    ],
-    [
         "[*], give out one penalty for each item of red clothing you're wearing. Take a penalty if you don't have any"
     ],
     [
@@ -861,9 +858,6 @@
         "[*], stroke [*]'s thigh. If you don't, everyone has to take 3 penalties"
     ],
     [
-        "If you would have sex with the player to your left, take 3 penalties"
-    ],
-    [
         "If you've ever secretly read messages on your significant other's phone, take 3 penalties"
     ],
     [
@@ -873,9 +867,27 @@
         "[*], give a wet willy to everyone. Players who refuse take 2 penalties"
     ],
     [
-        "Let's play heads up! Without showing them, give the phone to someone. The phrase is \"Spongebob\". If they can't guess it, they take 2 penalties, otherwise everyone else takes 2."
+        "Let's play heads up! Without showing them, give the phone to someone. The phrase is \"Spongebob\". If they can't guess it, they take 2 penalties, otherwise everyone else takes 2"
     ],
     [
         "[*], you're now the group's scientist! Mix the other players' drinks, anytime you want for 5 rounds"
+    ],
+    [
+        "[*], look up the word \"dick\" in your messages and read the most recent message. \nIf you can't, take 4 penalties"
+    ],
+    [
+        "Go around and list the last name and age of the player to your left. 5 penalties if you get it wrong"
+    ],
+    [
+        "Question Master! Each person ask someone else a question. Whenever they ask a question, the other person must respond with a question. Maximum penalty if you pause! \n[*], goes first"
+    ],
+    [
+        "Swap tops with the person to your left or take a maximum penalty"
+    ],
+    [
+        "[*], look up the word \"sex\" in your messages and read the most recent message. \nIf you can't, take 4 penalties"
+    ],
+    [
+        "[*], choose someone and demonstrate your favourite sex position or down your drink"
     ]
 ]
