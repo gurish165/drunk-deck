@@ -2,10 +2,20 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between; /* Changed from center to space-between */
-    height: 100vh; /* Set height to 100% of viewport height */
-    padding: 20px 0; /* Add some padding on top and bottom for a better look */
+    justify-content: space-between;
+    height: 100vh;
+    padding: 20px 0;
+    /* Barber pole effect */
+    background-image: repeating-linear-gradient(130deg, rgba(246, 246, 246, 0.2), rgba(246, 246, 246, 0.2) 20px, rgba(238, 238, 238, 0.1) 20px, rgba(238, 238, 238, 0.1) 40px);
+    background-size: 5000%;
+    animation: animatedBackground 250s linear infinite;
 }
+
+@keyframes animatedBackground {
+  from { background-position: 0 0; }
+  to { background-position: -100% 0; }
+}
+
 
 .navigation {
     display: flex;
