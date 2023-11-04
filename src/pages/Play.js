@@ -15,23 +15,24 @@ function Play() {
     
 
     // Function to get a random color from the colors list
-    const getRandomColor = () => {
+    const getRandomColor = (currentBackgroundColor) => {
         let randomColor;
         do {
             const randomIndex = Math.floor(Math.random() * colors.length);
             randomColor = colors[randomIndex];
-        } while (randomColor === prevBackgroundColor);  // Ensure it's not the same as previous color
-
+        } while (randomColor === currentBackgroundColor);  // Ensure it's not the same as the current color
+    
         return randomColor;
     };
+    
 
     const nextQuestion = () => {
         if (currentIndex < 24) {
             setCurrentIndex(prevIndex => {
                 const nextIndex = prevIndex + 1;
                 setCurrentQuestion(questions[nextIndex][0]);
-                const newBackgroundColor = getRandomColor();
-                setPrevBackgroundColor(backgroundColor);  // Update the previous color before setting a new one
+                const newBackgroundColor = getRandomColor(backgroundColor);
+                setPrevBackgroundColor(backgroundColor);  // Update the previous color after setting a new one
                 setBackgroundColor(newBackgroundColor);
                 return nextIndex;
             });

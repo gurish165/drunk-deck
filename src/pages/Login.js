@@ -4,6 +4,7 @@ import SHA256 from 'crypto-js/sha256';
 import '../css/Login.css';
 
 const PASSWORD_HASH = 'f189221a0412157d53c503d8dfaa95ef8829cbc0e50422f07d0cf0b0cc034537';
+const PASSWORD_HASH_2 = 'd6dbbbecaba142470c010f4b2153c1f50c35a34e1c4ecbc685541116bef93bce';
 
 function Login() {
     const [input, setInput] = useState('');
@@ -13,7 +14,7 @@ function Login() {
     const handleLogin = () => {
         const inputHash = SHA256(input).toString();
 
-        if (inputHash === PASSWORD_HASH) {
+        if (inputHash === PASSWORD_HASH || inputHash === PASSWORD_HASH_2) {
             history('/home');
         } else {
             setWrongPassword(true);
