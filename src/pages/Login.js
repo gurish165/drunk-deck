@@ -13,6 +13,7 @@ function Login() {
 
     const handleLogin = () => {
         const inputHash = SHA256(input).toString();
+        console.log(inputHash);
 
         if (inputHash === PASSWORD_HASH || inputHash === PASSWORD_HASH_2) {
             history('/home');
