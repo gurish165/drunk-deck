@@ -33,6 +33,9 @@
         "[*], say \"In my suitcase, there is...\" and list one item. Taking turns, every player has to repeat the items in the suitcase and add on one new item. The first player to fail has to take a penalty"
     ],
     [
+        "[*], say \"At the picnic, there is...\" and list one item. Taking turns, every player has to repeat the items at the picnic and add on one new item. The first player to fail has to take a penalty"
+    ],
+    [
         "[*], who do you think has been to, or will go to, the most festivals, [*] or [*]? The raver can give out 5 penalties"
     ],
     [
@@ -57,7 +60,7 @@
         "[*], let's hear your sexy french accent"
     ],
     [
-        "[*], feeling lucky cowboy? Either take a maximum penalty and everyone calls you Cowboy, or give out 3 penalties like a yellow-bellied, lily-livered coward"
+        "[*], feeling lucky, cowboy? Either take a maximum penalty and everyone calls you Cowboy, or give out 3 penalties like a yellow-bellied coward"
     ],
     [
         "[*], choose whether [*] or [*] has to take a maximum penalty"
@@ -99,7 +102,7 @@
         "[*], in a restaurant, who you would let choose the wine, [*] or [*]? The connoisseur can give out 3 penalties"
     ],
     [
-        "The first player to invent an inspirational saying (worthy of a cheesy poster) gives out 3 penalties"
+        "The first player to invent an inspirational saying gives out 3 penalties"
     ],
     [
         "Take a penalty if you've ever had beer for breakfast"
@@ -357,7 +360,7 @@
         "You have all enabled slow motion mode on [*]. This player must talk in slow motion for 3 rounds. They will receive 4 penalties each time they forget"
     ],
     [
-        "[*], you're Angry Man! Every time Angryman smiles or laughs, they take a penalty"
+        "[*], you're Angry Man! For three rounds, every time Angryman smiles or laughs, they take a penalty"
     ],
     [
         "Mini game. All players name as many famous scientists as you can, [*] receives 1 penalty for each. The game stops at the slightest mistake"
@@ -423,10 +426,10 @@
         "[*] and [*], each tell us about the most hardcore p*rn you ever saw. Everyone else, vote for the most hardcore! The winner can give the loser 3 penalties"
     ],
     [
-        "[*] and [*], type \"sh*\" into your phone's search bar and read out the first message that pops up. If you refuse, take 4 penalties"
+        "[*] and [*], type \"shit\" into your phone's search bar and read out the first message that pops up. If you refuse, take 4 penalties"
     ],
     [
-        "[*], take a penalty. The neighbor to your right takes one less, and so on, until you reach O"
+        "[*], take any number of penalties. The neighbor to your right takes one less, and so on, until you reach O"
     ],
     [
         "[*], give out one penalty for every aunt you have"
@@ -451,9 +454,6 @@
     ],
     [
         "[*], smile for one minute non-stop. If you stop smiling, take a penalty"
-    ],
-    [
-        "The player who most recently tasted a girl's c*m, give out 4 penalties"
     ],
     [
         "Take 4 penalties if you've ever gotten hammered only on shots"
@@ -486,7 +486,7 @@
         "[*], take 2 penalties and give one out"
     ],
     [
-        "[*] and [*], let's get goofy! Stand on one leg for as long as you can. The loser has to take 3 penalties"
+        "[*] and [*], get goofy! Stand on one leg for as long as you can. The loser has to take 3 penalties"
     ],
     [
         "Would you rather have your clothes disappear when you think of the word \"igloo\", or have your underwear 'meow' when you hear \"like\"? Everyone vote at once, losing group takes 2 penalties"
@@ -534,7 +534,7 @@
         "[*], comment on the first post you find on Instagram, or take a penalty"
     ],
     [
-        "Take a penalty if you sleep naked as the day you were born"
+        "Take a penalty if you sleep naked"
     ],
     [
         "Stop staring at your phone! The next person to use their phone takes 10 penalties"
@@ -570,7 +570,7 @@
         "Mini game. All players name as many English-speaking writers as you can, [*] receives 1 penalty for each. The game stops at the slightest mistake"
     ],
     [
-        "Anyone who's used an electric kick scooter this year, take 2 penalties"
+        "Anyone who's used an electric scooter this year, take 2 penalties"
     ],
     [
         "[*], choose an object in the room. The first player to touch can give out 2 penalties"
@@ -585,7 +585,7 @@
         "[*], who would you choose to be your personal trainer, [*] or [*]? Your new coach can give out 2 penalties"
     ],
     [
-        "Ways to pass the time while sh*ting. If you repeat, or can't think of one, take a penalty. [*], you start"
+        "Ways to pass the time while taking a shit. If you repeat, or can't think of one, take a penalty. [*], you start"
     ],
     [
         "Give out 2 penalties if you've ever played Airsoft"
@@ -600,7 +600,7 @@
         "[*], lick the forearm of the player to your left or take a penalty"
     ],
     [
-        "Anyone with a vape, take four penalties"
+        "Anyone with a vape, take four penalties. Take an extra penalty if it is a Breeze"
     ],
     [
         "Mini game. All players name as many TV series as you can of which [*] has seen every season, this person receives 1 penalty for each. The game stops at the slightest mistake"
@@ -621,7 +621,7 @@
         "A player mimes a scene from a movie. The first person to correctly guess the movie title gives out 2 penalties. That person then mimes a scene for the next round, and so on. The game stops after 3 rounds. [*], you start"
     ],
     [
-        "Bald people and girls with short hair, get some revenge! Choose someone to take a maximum penalty"
+        "Bald people and girls with short hair, get revenge! Choose someone to take a maximum penalty"
     ],
     [
         "Cheese or meat? Everyone vote at once, losing group takes 4 penalties"
@@ -645,7 +645,7 @@
         "[*], if any player has the balls, take a voluntary penalty"
     ],
     [
-        "[*], find a guy called Kevin or take a penalty. You've got 3 tries. If you succeed, you can give out 2 penalties"
+        "[*], find a guy named Kevin or take a penalty. You've got 3 tries. If you succeed, you can give out 2 penalties"
     ],
     [
         "[*], you're our new seat planner! You can make two people swap places, but you have to take a penalty each time"
@@ -705,7 +705,7 @@
         "[*], make someone take a penalty if you've been to this bar before. If not, take 4 penalties"
     ],
     [
-        "[*], give out as many penalties as there are bald men in the bar, take if there are none"
+        "[*], give out as many penalties as there are bald men in the room, take a penalty if there are none"
     ],
     [
         "[*], if you have a coaster, make someone take a penalty. If not, you take it"
@@ -714,7 +714,10 @@
         "The player who ordered last, it's time to catch up! Take 2 penalties"
     ],
     [
-        "Go around the group and guess which club downtown [*] thinks is the best. The first player to get it right, give out 3 penalties! [*], you start"
+        "Go around the group and guess which bar/club [*] thinks is the best. The first player to get it right, give out 3 penalties! [*], you start"
+    ],
+    [
+        "Go around the group and guess which place [*] thinks is the best to study or do work. The first player to get it right, give out 3 penalties! [*], you start"
     ],
     [
         "[*], snap your fingers to the beat of the music for 3 songs! Alternatively, take 3 penalties for each new song that plays"
@@ -726,7 +729,7 @@
         "[*], close your eyes! Now tell us [*]'s eye color, or take a penalty"
     ],
     [
-        "The player with the highest value coin has to choose between giving it to someone who then takes 7 penalties, or keeping it and taking 7 penalties themself"
+        "The player with the highest value coin has to choose between giving it to someone who then takes 5 penalties, or keeping it and taking 3 penalties themself"
     ],
     [
         "[*], choose someone to take a penalty from [*]'s glass"
@@ -738,7 +741,7 @@
         "Anybody who's ever said something like \"I forgot my card, can someone spot me?\" take 2 penalties"
     ],
     [
-        "[*], write \"do me\" on your forehead, or take 4 penalties"
+        "[*], write \"do me\" on your arm, or take 4 penalties"
     ],
     [
         "[*], choose a stranger nearby. At your \"beep\", if they don't look towards you within 12 seconds, you can give out 3 penalties. If they do, take them instead"
@@ -759,19 +762,22 @@
         "Take 2 penalties if you've ever played Rock, Paper, Scissors as a party game"
     ],
     [
-        "Potty mouths! Every time a player says a swear word for 5 rounds, the other players can write it on them"
+        "Potty mouths! Every time a player says a swear word for 2 rounds, the other players can write it on them"
     ],
     [
         "[*], you have 3 seconds to say the exact number of people in the room. Fail and you take a penalty. 3....2....1"
     ],
     [
-        "Enough talking, let's party! [*], [*], [*], and [*], take 2 penalties"
+        "Enough talking, let's party! [*], [*], and [*], take 2 penalties"
     ],
     [
         "Let's play heads up! \nWithout showing them, give the phone to someone. The phrase is: \n\"dick cheese\"\n If they can't guess it, they take 2 penalties, otherwise everyone else takes 2."
     ],
     [
-        "[*], let [*] lick your eyes. If either of you refuses, take 2 penalties"
+        "[*], let [*] lick your forehead. If either of you refuses, take 2 penalties"
+    ],
+    [
+        "[*], let [*] bless you with their drink like Simba. If either of you refuses, take 2 penalties"
     ],
     [
         "Songs by J Biebs. If you repeat, or can't think of one, take a penalty. [*], you start"
@@ -780,7 +786,7 @@
         "[*], dunk your balls in your glass or finish it. If you're a girl, just take a penalty ;)"
     ],
     [
-        "If you've ever canceled a date within a minute of finishing masturbating, take 3 penalties"
+        "If you've ever canceled a date within an hour of finishing masturbating, take 3 penalties"
     ],
     [
         "Take 2 penalties if you've ever had to throw out a condom because you unrolled it inside out"
@@ -804,7 +810,7 @@
         "[*], tell us the first name and age of each player. The person whose name or age you screw up can give out 4 penalties"
     ],
     [
-        "[*], who do you think could do a better painting with their d*ck, [*] or [*]? Pee-casso has to take 3 penalties"
+        "[*], who do you think could do a better painting with their dick, [*] or [*]? Pee-casso has to take 3 penalties"
     ],
     [
         "Everyone chose a new nickname for [*] (make it dirty, insulting, whatever you want...). Until the end of the party, everyone has to call them by this nickname"
@@ -825,7 +831,7 @@
         "[*], tell a funny story about another player or take a penalty"
     ],
     [
-        "Letters in the word \"bombshell\". If you repeat, or can't think of one, take 5 penalties. [*], you start"
+        "Say a letter in the word \"bombshell\". If you repeat, or can't think of one, take 5 penalties. [*], you start"
     ],
     [
         "The player who m*sturbated most recently can give out 2 penalties"
@@ -846,7 +852,7 @@
         "Would you rather be at the bottom of the social ladder in a fascist dictatorship, or at the bottom of the social ladder in medieval times? Everyone vote at once, losing group takes 3 penalties"
     ],
     [
-        "[*], choose a player to put a hair in your drink"
+        "[*], choose a player to put a hair in your drink, or take 2 penalties"
     ],
     [
         "[*], let every player spank you or take a maximum penalty"
@@ -861,7 +867,7 @@
         "If you've ever secretly read messages on your significant other's phone, take 3 penalties"
     ],
     [
-        "[*], you're a cat in heat! Meow at the end of every sentence for 5 rounds or take 2 penalties"
+        "[*], you're a cat in heat! Meow at the end of every sentence for 3 rounds or take 2 penalties"
     ],
     [
         "[*], give a wet willy to everyone. Players who refuse take 2 penalties"
