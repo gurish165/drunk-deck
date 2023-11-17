@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pookie-play/static/css/main.b4a16422.css",
-    "main.js": "/pookie-play/static/js/main.cf47688f.js",
-    "index.html": "/pookie-play/index.html",
-    "main.b4a16422.css.map": "/pookie-play/static/css/main.b4a16422.css.map",
-    "main.cf47688f.js.map": "/pookie-play/static/js/main.cf47688f.js.map"
+    "main.css": "/drunk-deck/static/css/main.b4a16422.css",
+    "main.js": "/drunk-deck/static/js/main.828df22c.js",
+    "index.html": "/drunk-deck/index.html",
+    "main.b4a16422.css.map": "/drunk-deck/static/css/main.b4a16422.css.map",
+    "main.828df22c.js.map": "/drunk-deck/static/js/main.828df22c.js.map"
   },
   "entrypoints": [
     "static/css/main.b4a16422.css",
-    "static/js/main.cf47688f.js"
+    "static/js/main.828df22c.js"
   ]
 }
