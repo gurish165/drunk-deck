@@ -27,7 +27,7 @@ function Login() {
 
     return (
         <div className="login-container">
-            <h2 className="game-name">Pookie Play !</h2>
+            <h2 className="game-name">Drunk Deck !</h2>
             <input 
                 type="password" 
                 value={input} 

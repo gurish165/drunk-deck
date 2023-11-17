@@ -6,7 +6,7 @@ function PlayerList({ players, addPlayer, removePlayer }) {
     return (
         <div className="player-list">
             <div className='player-input'>
-                <input className="name-input" type="text" value={input} onChange={e => setInput(e.target.value)} placeholder="Pookie" />
+                <input className="name-input" type="text" value={input} onChange={e => setInput(e.target.value)} placeholder="Pookie Name" />
                 <button className="add-name-button" onClick={() => {
                     if (input !== '') {addPlayer(input)};
                     setInput('');

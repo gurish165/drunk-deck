@@ -67,10 +67,10 @@ function Home() {
         <div className="home-container">
             <Banner bottom={false}/>
             <div className='home-header'>
-                Pookie Play !
+                Drunk Deck !
             </div>
             <div className='home-description'>
-                Add at least 3 pookies!
+                Add at least 3 players!
             </div>
             <div className='team-container'>
                 <PlayerList players={players} addPlayer={addPlayer} removePlayer={removePlayer} />
