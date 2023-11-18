@@ -648,7 +648,7 @@
         "[*], find a guy named Kevin or take a penalty. You've got 3 tries. If you succeed, you can give out 2 penalties"
     ],
     [
-        "[*], you're our new seat planner! You can make two people swap places, but you have to take a penalty each time"
+        "[*], you're our new seat planner! You can make someone sit on someone else's lap for three rounds, but you have to take a penalty each time"
     ],
     [
         "The first player to find an empty table, give out 2 penalties.\nNone? Everybody take 1 penalty!"
@@ -913,5 +913,8 @@
     ],
     [
         "[*], name your second favorite person here. If you don't, take 3 penalties, otherwise the person you name takes 5 penalties"
+    ],
+    [
+        "[*] and [*] arm wrestle! Everyone else place bets on who you think will win. If you are wrong, take 5 penalties"
     ]
 ]
