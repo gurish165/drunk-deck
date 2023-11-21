@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/drunk-deck/static/css/main.b4a16422.css",
-    "main.js": "/drunk-deck/static/js/main.828df22c.js",
+    "main.js": "/drunk-deck/static/js/main.f5f66900.js",
     "index.html": "/drunk-deck/index.html",
     "main.b4a16422.css.map": "/drunk-deck/static/css/main.b4a16422.css.map",
-    "main.828df22c.js.map": "/drunk-deck/static/js/main.828df22c.js.map"
+    "main.f5f66900.js.map": "/drunk-deck/static/js/main.f5f66900.js.map"
   },
   "entrypoints": [
     "static/css/main.b4a16422.css",
-    "static/js/main.828df22c.js"
+    "static/js/main.f5f66900.js"
   ]
 }
