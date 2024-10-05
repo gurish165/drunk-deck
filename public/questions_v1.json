@@ -12,7 +12,7 @@
         "[*], give 5 penalties to a player who's less tan than you... If there are none, you take them"
     ],
     [
-        "[*], such bad manners! From now on, speak with your mouth full or take a penalty"
+        "[*], such bad manners! From now on, speak with your mouth full or take a 5 penalties"
     ],
     [
         "Everyone whose age is an even number, send a photo to someone or take a penalty"
@@ -87,7 +87,7 @@
         "Idiots who've gotten a DUI or MIP, take a penalty. Everyone else, hide your keys"
     ],
     [
-        "[*], add some ice to [*]'s glass"
+        "[*], add some ice to [*]'s glass. If you can't find ice, both take a penalty"
     ],
     [
         "Give out 2 penalties if you've ever been to Disneyland"
@@ -249,7 +249,7 @@
         "\"An object beginning with A that you could fit in your anus\". If you repeat, or can't think of one, take 3 penalties. [*], you start"
     ],
     [
-        "[*], put some grass into your glass"
+        "[*], put some grass into your glass. If no one can find any, [*] takes 3 penalties"
     ],
     [
         "Give out 3 penalties if you are able to suck your big toe"
@@ -264,7 +264,7 @@
         "Would you rather be able to walk on rainbows or speak to flies?\nEveryone vote at once, losing group takes 5 penalties"
     ],
     [
-        "[*], show us a topless picture of you, or take 2 penalties"
+        "[*], I hope we picked a man. Show us a topless picture of you, or take 2 penalties"
     ],
     [
         "[*], if you've ever shoplifted, give out 2 penalties. If not, take a penalty"
@@ -846,7 +846,7 @@
         "Take 5 penalties if you've ever called over your buddies so they could see you fart under water"
     ],
     [
-        "[*] and [*], let's get goofy! Do as many squats as you can.\nThe loser has to take 3 penalties"
+        "[*] and [*], let's get thick! Do as many squats as you can.\nThe loser has to take 3 penalties"
     ],
     [
         "Would you rather be at the bottom of the social ladder in a fascist dictatorship, or at the bottom of the social ladder in medieval times? Everyone vote at once, losing group takes 3 penalties"
@@ -871,9 +871,6 @@
     ],
     [
         "[*], give a wet willy to everyone. Players who refuse take 2 penalties"
-    ],
-    [
-        "Let's play heads up! \nWithout showing them, give the phone to someone. The phrase is: \n\"Spongebob\" \nIf they can't guess it, they take 2 penalties, otherwise everyone else takes 2"
     ],
     [
         "[*], you're now the group's scientist! Mix the other players' drinks, anytime you want for 5 rounds"
@@ -942,7 +939,7 @@
         "Spin the bottle! [*], pick someone in the group and spin a bottle. If it lands on them, they take a maximum penalty."
     ],
     [
-        "Take 4 penalties if you said \"I love you\" before the other person did "
+        "Take 4 penalties if you said \"I love you\" before the other person in your current or last relationship did "
     ],
     [
         "[*], what was the last challenge? If you can't remember, finish your drink"
